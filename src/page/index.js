@@ -1,0 +1,1 @@
+export {default as AbilityUpgradesPage } from './ability_upgrades'
